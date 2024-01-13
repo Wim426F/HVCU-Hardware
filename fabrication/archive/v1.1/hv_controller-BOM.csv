@@ -1,0 +1,78 @@
+Comment,Designator,Footprint,LCSC Part #
+1uF Unpolarized capacitor,"C1,C64",Capacitor_SMD,C28323
+100nF Unpolarized capacitor,"C2,C3,C4,C5,C8,C9,C10,C11,C12,C13,C16,C20,C22,C23,C31,C35,C36,C37,C39,C44,C45,C46,C47,C48,C49,C50,C51,C52,C56,C57,C58,C59,C60,C65,C66",Capacitor_SMD,C49678
+3300uF 25V Polarized capacitor,C6,Capacitor_THT,C442846
+22uf_450V Polarized capacitor,C7,Capacitor_THT,C134229
+10nF Unpolarized capacitor,"C14,C15,C21,C24",Capacitor_SMD,C1710
+680pF 630V Unpolarized capacitor,C17,Capacitor_SMD,C106005
+220uf_25V Polarized capacitor,"C18,C19",Capacitor_SMD,C371974
+10uF Unpolarized capacitor,"C25,C26,C30,C32,C40,C43,C53",Capacitor_SMD,C440198
+"100nF Unpolarized capacitor, small symbol",C27,Capacitor_SMD,C14663
+4.7uF Unpolarized capacitor,"C28,C29",Capacitor_SMD,C1779
+"47nF Unpolarized capacitor, small symbol","C33,C34,C54,C55,C67",Capacitor_SMD,C53134
+22nf Unpolarized capacitor,"C38,C41",Capacitor_SMD,C1729
+680pF Unpolarized capacitor,C42,Capacitor_SMD,C1630
+22pF Unpolarized capacitor,"C62,C63",Capacitor_SMD,C1653
+D Diode,"D2,D20,D21,D22,D23",Diode_SMD,C8598
+SS54 Diode,"D3,D4,D5,D6,D7,D10,D24,D29",Diode_SMD,C22452
+C3D03060E-TR Diode,D11,Package_TO_SOT_SMD,
+"SZNUP2105LT1G Dual Line CAN Bus Protector, 24Vrwm, Automotive Grade",D15,Package_TO_SOT_SMD,C233494
+LED_GREEN Light emitting diode,"D17,D25,D26",LED_SMD,C72043
+"SP0505BAHT TVS Diode Array, 5.5V Standoff, 5 Channels, SOT-23-6 package",D18,Package_TO_SOT_SMD,C85364
+LED_RED Light emitting diode,D28,LED_SMD,C84256
+"A600-150 Resettable fuse, polymeric positive temperature coefficient",F1,Fuse,C135449
+"TC4427AEOA713 TC4427ACOA, Dual MOSFET Power Driver 1.5A, Non-Inverting, 4.5 to 18V, 8-Pin SOIC","IC1,IC3",Package_SO,C20551
+"BD93291EFJ-E2 ROHM - BD93291EFJ-E2 - DC/DC CONV, DUAL O/P, 5V/3.3V, HTSOP-8",IC2,HTSOP-8,
+SN65C3232EDR 3-V To 5.5-V Two Channel RS-232 1 Mbit/s Line Driver/Receiver with +/-15 kV IEC ESD Protection,IC5,SOIC127P600X175-16N,C26860
+TXS0104EDR 4-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Applications,IC6,Package_SO,C79342
+"MCP25625T-E_ML Microchip Technology MCP25625T-E/ML, CAN Controller 1Mbit/s CAN 2.0B, 28-Pin QFN",IC15,QFN65P600X600X100-29N-D,C191253
+"BMB_A_CONN Molex Mini50 Series, 34912 Series Number, 1 Row 2 Way Surface Mount Plug PCB Header, with SMT Termination Method",J2,0349128020,
+"BMB_B_CONN Molex Mini50 Series, 34912 Series Number, 1 Row 2 Way Surface Mount Plug PCB Header, with SMT Termination Method",J3,0349128020,
+"34912-8020 Molex Mini50 Series, 34912 Series Number, 1 Row 2 Way Surface Mount Plug PCB Header, with SMT Termination Method",J4,0349128020,
+"HV_SENSE Generic connector, double row, 02x04, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)",J6,Connector_Molex,
+"VEH_INTERFACE Generic connector, double row, 02x07, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)",J7,Connector_Molex,
+"I3_LIM_KLE Generic connector, double row, 02x02, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)",J8,Connectors_Molex,
+USB_B USB Type B connector,J9,SamacSys_Parts,C26234
+S44B-RAD1AK Automotive Connectors 44CIR MALE HDR 0,J10,S44BRAD1AK,
+"Conn_ARM_JTAG_SWD_10 Cortex Debug Connector, standard ARM Cortex-M SWD and JTAG interface",J13,Connector_PinHeader_1.27mm,
+ZE05H-8DP-2H Conn Shrouded RCP 8 POS 2mm Solder RA SMD T/R,J16,ZE05H8DP2H,
+2.2uH Inductor,"L1,L3",Inductor_SMD,C136243
+22uH Inductor,L2,Inductor_SMD,C845053
+10uH Inductor,L4,Inductor_SMD,C370039
+6.8uH Inductor,L5,Inductor_SMD,C139247
+L_Coupled_1423 Coupled inductor,L6,SamacSys_Parts,C76583
+"MMBT5551 0.8A Ic, 45V Vce, NPN Transistor, SOT-323","Q1,Q2,Q3,Q12,Q14,Q15,Q16",Package_TO_SOT_SMD,C2145
+"MMBT5401 0.8A Ic, 45V Vce, PNP Transistor, SOT-323","Q4,Q5,Q11,Q13",Package_TO_SOT_SMD,C8326
+SIRA90DP-T1-GE3 N-Channel 30 V (D-S) MOSFET,"Q6,Q7,Q8,Q9,Q10",SIRA90DPT1GE3,
+"SM3416SRL N-MOSFET transistor, gate/source/drain",Q17,Package_TO_SOT_SMD,C235546
+1k Resistor,"R1,R2,R3,R4,R5,R54,R55,R56,R62,R74,R85,R89,R99,R102,R103,R104,R105,R108,R111",Resistor_SMD,C17513
+120R Resistor,"R6,R7,R9,R10,R92,R93",Resistor_SMD,C17437
+2.7k Resistor,"R8,R16,R64,R90,R91,R94,R95,R107",Resistor_SMD,C17530
+100k Resistor,"R11,R58,R97,R109,R110",Resistor_SMD,C149504
+10k Resistor,"R12,R13,R15,R19,R38,R39,R44,R45,R53,R57,R59,R60,R63,R67,R68,R76,R77,R81,R83,R86,R88",Resistor_SMD,C17414
+220R Resistor,"R14,R66,R70,R72,R75",Resistor_SMD,C17557
+5.1k Resistor,"R17,R50,R51,R61,R80,R82,R84,R87",Resistor_SMD,C27834
+16k Resistor,"R18,R98",Resistor_SMD,C17490
+402k Resistor,"R20,R23,R26,R29,R32,R35",Resistor_SMD,C706240
+3.3M Resistor,"R21,R22,R24,R25,R27,R28,R30,R31,R33,R34,R36,R37,R40,R41,R42,R43,R46,R47",Resistor_SMD,
+10kΩ Resistor,"R48,R49,R52,R100,R101,R112",Resistor_SMD,C328417
+330R Resistor,"R65,R69,R71,R73",Resistor_SMD,C17630
+4.7k Resistor,R78,Resistor_SMD,C17673
+4.53k Resistor,R79,Resistor_SMD,C79537
+43k Resistor,R96,Resistor_SMD,C17695
+580R Resistor,R106,Resistor_SMD,C407260
+TS-1187A-B-A-B Tactile Switches SPST 5.10mm x 5.10mm 0.40mm 50mA @ 12VDC SMD RoHS,S1,TS1187ABAB,
+HX1188NLT Telecom Transformer 1CT:1CT/1CT:1CT 1.5Ohm Prim. DCR 1.5Ohm Sec. DCR 16Term. Gull Wing SMD,"T1,T2",HX1188NLT,
+EPM1510SJA ,T4,Converter_DCDC,
+IES0105S05 ,T5,Custom,
+MC33797BPEWR2 ,U1,Custom,C729196
+ATSAME54N19A ,U2,TQFP100_14x14MC_MCH,
+"TJA1050T/CM,118 High-Speed CAN Transceiver, standby mode, split pin, SOIC-8","U3,U4,U5",Package_SO,C6952
+"LM358 Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8","U6,U16,U19",Package_SO,C7950
+"C238S MOSFET Photorelay 1-Form-A, Voff 60V, Ion 100mA, SOP6","U7,U10",Package_SO,
+"CC6903SO-20A ±20A Bidirectional Hall-Effect Current Sensor, +5.0V supply, 100mV/A, SOIC-8","U11,U13,U14,U15",Package_SO,C469387
+"ATSAME51J20A SAM E53 Microchip SMART ARM Cortex-M4F based MCU, 256K Flash, 128K SRAM, QFN-64",U12,Package_DFN_QFN,
+"MCP3424 4-Channel, 18-Bit, Delta-Sigma AD-Converter, I²C Interface, Reference",U18,Package_SO,C219880
+"ACPL-C790-500E Precision Isolation Amplifer, ±3% Gain Tolerance, Bandwidth 200kHz, SSO-8","U21,U22,U23,U24,U25",Package_SO,C81946
+"Crystal_GND24 Four pin crystal, GND on pins 2 and 4",Y1,Crystal,C13738
+Crystal Two pin crystal,Y2,Crystal,C32346
